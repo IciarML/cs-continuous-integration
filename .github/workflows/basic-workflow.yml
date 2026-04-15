@@ -1,7 +1,9 @@
 name: Continuous integration example
 
-on: 
-  push:
+# ICÍAR
+on:
+  pull_request:
+    branches: [ main ]
 
 jobs:
 
