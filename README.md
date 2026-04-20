@@ -15,13 +15,13 @@ El proyecto solo pasa los tests en Java 21, en las versiones 11 y 17 falla. Prob
 
 `<properties>`
 
-		`<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>`
+   `<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>`
 		
-		`<maven.compiler.source>21</maven.compiler.source>`
+   `<maven.compiler.source>21</maven.compiler.source>`
 		
-		`<maven.compiler.target>21</maven.compiler.target>`
+   `<maven.compiler.target>21</maven.compiler.target>`
 		
-		`<junit.version>6.0.1</junit.version>`
+   `<junit.version>6.0.1</junit.version>`
 		
 `</properties>`
 
